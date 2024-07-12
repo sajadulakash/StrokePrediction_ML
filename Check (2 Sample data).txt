@@ -1,0 +1,8 @@
+Check :
+
+Female	79	0	1	Yes	Private		Urban	214.09	28.2	never smoked		1111
+
+Male	30	0	0	Yes	Private		Rural	58.89	26.1	formerly smoked		0000
+
+
+
